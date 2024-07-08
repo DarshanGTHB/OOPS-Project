@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.embeddedhtml": "html",
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "string": "cpp",
+        "ostream": "cpp",
+        "iomanip": "cpp",
+        "vector": "cpp",
+        "xiosbase": "cpp",
+        "istream": "cpp",
+        "fstream": "cpp",
+        "ios": "cpp",
+        "set": "cpp",
+        "chrono": "cpp"
+    }
+}

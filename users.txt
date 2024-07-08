@@ -1,0 +1,15 @@
+D2 John smith john@email.com 1234567890 Student A2 2100.000000
+D3 Emily Johnson emily@email.com 5555555555 Student A3 4011.000000
+D4 Michael Brown mike@email.com 9998887777 Student A4 1700.000000
+D5 Sarah Davis sarah@email.com 1112223333 Student A5 4950.000000
+D6 Jessica Lee jessica@email.com 4443332222 Student A6 1100
+D7 David Wilson david@email.com 6667778888 Student A7 1300
+D8 Lisa Miller lisa@email.com 1231231234 Student A8 1400
+D9 Robert Hall robert@email.com 7897897890 Student A9 901.000000
+D10 Susan White susan@email.com 3216549870 Student A10 -1850.000000
+lavanya5904 lavanya lavanya lavanya@gmail.com 1234567891 student a1 11000.000000
+devesh123 Devesh abcd d@g.com 9 stu A1 500
+D1 Darshan a email@gmail.com 9876543210 Student A1 867.000000
+darshan123 Darshan A D@gmail.com 9876543210 Student A1 1000
+D19 Dawrshan abc d@gmail.com 9876543210 Student A1 900.000000
+itzd Darshan 123 example@123.com 9876543210 Student D1 1100.000000
